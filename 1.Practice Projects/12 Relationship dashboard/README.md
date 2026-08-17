@@ -57,10 +57,3 @@ The dashboard provides a cohesive view of key metrics with interactive features,
 ## Contributions
 Feel free to contribute by creating issues for bug reports, feature requests, or submitting pull requests for improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For any questions or feedback, please reach out at:  
-**Email**: derekbomfim@hotmail.com  
-**GitHub**: [derekbomfimprates](https://github.com/derekbomfimprates)
