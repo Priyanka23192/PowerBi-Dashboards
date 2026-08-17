@@ -124,7 +124,3 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 ![details](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a2efe884-ad4d-4f66-b2a6-205b01120b4a)
 
 
-
-
-## Done by
-   - Girish Chowdary
